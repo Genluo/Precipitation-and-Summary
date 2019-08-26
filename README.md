@@ -1,16 +1,9 @@
-# Blog
-
-### 一、[工具类](./工具.md)
-
-### 二、[文章收集](./文章收集.md)
-
-### 三、计划
-
-<h1 align="center">Interview Plan</h1>
+<h1 align="center">Plan</h1>
 
 <div align="center">
   <a href="#">
-    <img src="https://camo.githubusercontent.com/f85e9f52aec085fb258e80d7dcbf0eb5ec93dd65/68747470733a2f2f63646e2e7261776769742e636f6d2f79616e677368756e2f66726f6e742d656e642d696e746572766965772d68616e64626f6f6b2f323364383963382f6173736574732f7363726f6c6c2e737667" alt="Interview Plan" width="400"/>
+    <!-- <img src="https://camo.githubusercontent.com/f85e9f52aec085fb258e80d7dcbf0eb5ec93dd65/68747470733a2f2f63646e2e7261776769742e636f6d2f79616e677368756e2f66726f6e742d656e642d696e746572766965772d68616e64626f6f6b2f323364383963382f6173736574732f7363726f6c6c2e737667" alt="Interview Plan" width="400"/> -->
+    <img src="https://tva1.sinaimg.cn/large/006y8mN6ly1g6czt86ybbj31080ke3yv.jpg" alt="Interview Plan" width="100%"/>
     </a>
   <br>
   <p>
@@ -19,8 +12,9 @@
   </p>
 </div>
 
-## 香不香
-- [文章收集](./真香系列.md)
+## 资料
+- [文章收集](./文章收集.md)
+- [工具类](./工具.md)
 
 ## 语言基础部分
 
@@ -186,7 +180,7 @@ https://segmentfault.com/a/1190000011155061
 
 待续
 
-https://juejin.im/post/5cc1da82f265da036023b628
+https://juejin.imw/post/5cc1da82f265da036023b628
 
 
 
