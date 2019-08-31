@@ -45,20 +45,20 @@
 
 ## 语言基础部分
 
-- 调用堆栈
-- 作用域和闭包
-- this全面解析
-- 对象全面解析
-- 原型链
-- 深浅拷贝
-- 数据类型
+- [调用堆栈](https://github.com/Genluo/Blog/issues/7)
+- [作用域和闭包](https://github.com/Genluo/Blog/issues/8)
+- [this全面解析](https://github.com/Genluo/Blog/issues/9)
+- [对象全面解析](https://github.com/Genluo/Blog/issues/10)
+- [原型链](https://github.com/Genluo/Blog/issues/11)
+- [深浅拷贝](https://github.com/Genluo/Blog/issues/12)
+- [数据类型](https://github.com/Genluo/Blog/issues/13)
+- [Promise规范解读](https://github.com/Genluo/Blog/issues/14)
 - 位操作
-- Promise规范解读
-- 处理异步问题的方法
-- 函数防抖/节流原理
-- 垃圾回收机制
-- 模块化原理
-- 数据类型判断
+- [处理异步问题的方法](https://github.com/Genluo/Blog/issues/15)
+- [函数防抖/节流原理](https://github.com/Genluo/Blog/issues/16)
+- [垃圾回收机制](https://github.com/Genluo/Blog/issues/17)
+- [模块化原理](https://github.com/Genluo/Blog/issues/18)
+- [数据类型判断](https://github.com/Genluo/Blog/issues/19)
 - 语言层面性能优化
 - ES6重点难点
   - Symbol
