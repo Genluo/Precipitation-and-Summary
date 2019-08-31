@@ -22,7 +22,6 @@
 - [计算机网络](#%e8%ae%a1%e7%ae%97%e6%9c%ba%e7%bd%91%e7%bb%9c)
 - [业务层面](#%e4%b8%9a%e5%8a%a1%e5%b1%82%e9%9d%a2)
 - [React和Vue实现原理](#react%e5%92%8cvue%e5%ae%9e%e7%8e%b0%e5%8e%9f%e7%90%86)
-- [Serverless基础](#serverless%e5%9f%ba%e7%a1%80)
 - [Webpack](#webpack)
 - [Web安全](#web%e5%ae%89%e5%85%a8)
 - [源码阅读](#%e6%ba%90%e7%a0%81%e9%98%85%e8%af%bb)
@@ -106,32 +105,26 @@
 - 埋点实现思路
 ## React和Vue实现原理
 
-- MV*模式
-- React和Vue核心思想
-- VirtualDom原理和DIff算法
-- immutable对象构建算法
+- [MV*模式](https://github.com/Genluo/Blog/issues/29)
+- [React和Vue核心思想](https://github.com/Genluo/Blog/issues/30)
+- [VirtualDom原理和DIff算法](https://github.com/Genluo/Blog/issues/37)
+- [immutable对象构建算法](https://github.com/Genluo/Blog/issues/31)
 - React组件生命周期
-- React最新特性学习
-- CSR（Client Side Rendering）网页首帧优化总结
-- Redux原理
-- 前端路由控制原理
+- [React最新特性学习](https://github.com/Genluo/Blog/issues/32)
+- [CSR（Client Side Rendering）网页首帧优化总结](https://github.com/Genluo/Blog/issues/33)
+  [Redux原理](https://github.com/Genluo/Blog/issues/34)
+- [前端路由控制原理](https://github.com/Genluo/Blog/issues/35)
 - React性能优化
 - React事件系统
-- MVVM双向绑定原理与实现原理
-- hooks核心si'xiang
+- [MVVM双向绑定原理与实现原理](https://github.com/Genluo/Blog/issues/36)
+- hooks核心思想
   - vue中双向绑定
-
-## Serverless基础
-- [基础知识](https://juejin.im/post/5d42945ff265da03a715b2f0)
-
 
 ## Webpack
 
 - 项目实战
-- babel相关模块
-
-https://segmentfault.com/a/1190000011155061
-
+- babel原理
+- webpack整体架构
 - 未完待续
 
 ## Web安全
@@ -144,7 +137,7 @@ https://segmentfault.com/a/1190000011155061
 - [Koa](https://github.com/koajs/koa)
 - [Eggjs](https://github.com/eggjs/egg)
 - [MVVM](https://github.com/DMQ/mvvm)
-- 待续
+- ...
 
 ## Node
 
@@ -169,6 +162,7 @@ https://segmentfault.com/a/1190000011155061
 ## 数据结构和算法
 
 - 剑指Offer算法
+- [设计一个最小栈](https://github.com/Genluo/Blog/issues/39)
 - 时间复杂度和空间复杂度
 - 算法设计常用思想
   - 贪婪法
@@ -188,7 +182,7 @@ https://segmentfault.com/a/1190000011155061
   - 红黑树算法
   - hash算法
   - 最短路径算法
-  - LRU算法
+  - [LRU算法](https://github.com/Genluo/Blog/issues/38)
 
 ## 现代前沿技术
 
@@ -210,6 +204,3 @@ https://segmentfault.com/a/1190000011155061
 待续
 
 https://juejin.imw/post/5cc1da82f265da036023b628
-
-
-
