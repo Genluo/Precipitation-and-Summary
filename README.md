@@ -52,7 +52,6 @@
 - [深浅拷贝](https://github.com/Genluo/Blog/issues/12)
 - [位操作](https://github.com/Genluo/Blog/issues/13)
 - [Promise规范解读](https://github.com/Genluo/Blog/issues/14)
-- 位操作
 - [处理异步问题的方法](https://github.com/Genluo/Blog/issues/15)
 - [函数防抖/节流原理](https://github.com/Genluo/Blog/issues/16)
 - [垃圾回收机制](https://github.com/Genluo/Blog/issues/17)
