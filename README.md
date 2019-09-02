@@ -50,7 +50,7 @@
 - [对象全面解析](https://github.com/Genluo/Blog/issues/10)
 - [原型链](https://github.com/Genluo/Blog/issues/11)
 - [深浅拷贝](https://github.com/Genluo/Blog/issues/12)
-- [数据类型](https://github.com/Genluo/Blog/issues/13)
+- [位操作](https://github.com/Genluo/Blog/issues/13)
 - [Promise规范解读](https://github.com/Genluo/Blog/issues/14)
 - 位操作
 - [处理异步问题的方法](https://github.com/Genluo/Blog/issues/15)
