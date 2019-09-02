@@ -41,6 +41,7 @@
 ## 资料
 - [文章收集](./文章收集.md)
 - [工具类](./工具.md)
+- [前端性能优化](https://alienzhou.github.io/fe-performance-journey/)
 
 
 ## 语言基础部分
