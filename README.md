@@ -13,7 +13,6 @@
   </p>
 </div>
 
-
 - [技术跟进](#%e6%8a%80%e6%9c%af%e8%b7%9f%e8%bf%9b)
 - [资料](#%e8%b5%84%e6%96%99)
 - [语言基础部分](#%e8%af%ad%e8%a8%80%e5%9f%ba%e7%a1%80%e9%83%a8%e5%88%86)
@@ -152,6 +151,24 @@
 - 了解Libuv
 - 缓存方案设计及其常见缓存算法
 - 待续
+- 核心模块
+  - [Buffer学习](https://github.com/Genluo/Blog/issues/40)
+  - [stream](https://github.com/Genluo/Blog/issues/41)
+  - [fs](https://github.com/Genluo/Blog/issues/42)
+  - [path](https://github.com/Genluo/Blog/issues/43)
+  - [net](https://github.com/Genluo/Blog/issues/44)
+  - [dgram](https://github.com/Genluo/Blog/issues/45)
+  - [os](https://github.com/Genluo/Blog/issues/46)
+  - [process](https://github.com/Genluo/Blog/issues/47)
+  - [child_process](https://github.com/Genluo/Blog/issues/48)
+  - [http](https://github.com/Genluo/Blog/issues/49)
+  - [tls](https://github.com/Genluo/Blog/issues/50)
+  - [cluster](https://github.com/Genluo/Blog/issues/51)
+  - [string_decoder](https://github.com/Genluo/Blog/issues/52)
+  - [url](https://github.com/Genluo/Blog/issues/53)
+  - [global](./issues/54)
+  - [module](https://github.com/Genluo/Blog/issues/55)
+  - [console](https://github.com/Genluo/Blog/issues/56)
 
 ## 设计模式
 
