@@ -102,6 +102,7 @@
 - CDN原理
 - 同构渲染、预渲染之间的区别
 - 埋点实现思路
+
 ## React和Vue实现原理
 
 - [MV*模式](https://github.com/Genluo/Blog/issues/29)
@@ -117,7 +118,7 @@
 - React事件系统
 - [MVVM双向绑定原理与实现原理](https://github.com/Genluo/Blog/issues/36)
 - hooks核心思想
-  - vue中双向绑定
+- vue中双向绑定
 
 ## Webpack
 
