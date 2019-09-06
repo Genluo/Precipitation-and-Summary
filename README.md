@@ -141,6 +141,34 @@
 
 ## Node
 
+- 核心模块
+  - 缓存、流、模块
+    - [Buffer学习](https://github.com/Genluo/Blog/issues/40)
+    - [stream](https://github.com/Genluo/Blog/issues/41)
+    - [fs](https://github.com/Genluo/Blog/issues/42)
+    - [path](https://github.com/Genluo/Blog/issues/43)
+  - 网络处理相关模块
+    - [net](https://github.com/Genluo/Blog/issues/44)
+    - [tls](https://github.com/Genluo/Blog/issues/50)
+    - [dgram](https://github.com/Genluo/Blog/issues/45)
+    - [http](https://github.com/Genluo/Blog/issues/49)
+  - 系统与进程、集群
+    - [os](https://github.com/Genluo/Blog/issues/46)
+    - [process](https://github.com/Genluo/Blog/issues/47)
+    - [child_process](https://github.com/Genluo/Blog/issues/48)
+    - [cluster](https://github.com/Genluo/Blog/issues/51)
+  - 辅助模块URL处理，工具类
+    - [url](https://github.com/Genluo/Blog/issues/53)
+    - util
+  - 模块、全局对象
+    - [global](./issues/54)
+    - [module](https://github.com/Genluo/Blog/issues/55)
+    - [console](https://github.com/Genluo/Blog/issues/56)
+    - timers
+  - 加密、编码、压缩
+    - [string_decoder](https://github.com/Genluo/Blog/issues/52)
+    - crypto
+    - zlib
 - 实现Http2.0
 - 事件循环流程
 - 核心模块的认识
@@ -151,24 +179,7 @@
 - 了解Libuv
 - 缓存方案设计及其常见缓存算法
 - 待续
-- 核心模块
-  - [Buffer学习](https://github.com/Genluo/Blog/issues/40)
-  - [stream](https://github.com/Genluo/Blog/issues/41)
-  - [fs](https://github.com/Genluo/Blog/issues/42)
-  - [path](https://github.com/Genluo/Blog/issues/43)
-  - [net](https://github.com/Genluo/Blog/issues/44)
-  - [dgram](https://github.com/Genluo/Blog/issues/45)
-  - [os](https://github.com/Genluo/Blog/issues/46)
-  - [process](https://github.com/Genluo/Blog/issues/47)
-  - [child_process](https://github.com/Genluo/Blog/issues/48)
-  - [http](https://github.com/Genluo/Blog/issues/49)
-  - [tls](https://github.com/Genluo/Blog/issues/50)
-  - [cluster](https://github.com/Genluo/Blog/issues/51)
-  - [string_decoder](https://github.com/Genluo/Blog/issues/52)
-  - [url](https://github.com/Genluo/Blog/issues/53)
-  - [global](./issues/54)
-  - [module](https://github.com/Genluo/Blog/issues/55)
-  - [console](https://github.com/Genluo/Blog/issues/56)
+
 
 ## 设计模式
 
