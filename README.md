@@ -112,7 +112,7 @@
 - React组件生命周期
 - [React最新特性学习](https://github.com/Genluo/Blog/issues/32)
 - [CSR（Client Side Rendering）网页首帧优化总结](https://github.com/Genluo/Blog/issues/33)
-  [Redux原理](https://github.com/Genluo/Blog/issues/34)
+- [Redux原理](https://github.com/Genluo/Blog/issues/34)
 - [前端路由控制原理](https://github.com/Genluo/Blog/issues/35)
 - React性能优化
 - React事件系统
