@@ -1,5 +1,4 @@
 
-<!-- <h1 align="center">Plan</h1> -->
 
 <div align="center">
   <a href="#">
@@ -20,10 +19,10 @@
 - [计算机网络](#%e8%ae%a1%e7%ae%97%e6%9c%ba%e7%bd%91%e7%bb%9c)
 - [业务层面](#%e4%b8%9a%e5%8a%a1%e5%b1%82%e9%9d%a2)
 - [React和Vue实现原理](#react%e5%92%8cvue%e5%ae%9e%e7%8e%b0%e5%8e%9f%e7%90%86)
+- [Node](#node)
 - [Webpack](#webpack)
 - [Web安全](#web%e5%ae%89%e5%85%a8)
 - [源码阅读](#%e6%ba%90%e7%a0%81%e9%98%85%e8%af%bb)
-- [Node](#node)
 - [设计模式](#%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f)
 - [数据结构和算法](#%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84%e5%92%8c%e7%ae%97%e6%b3%95)
 - [现代前沿技术](#%e7%8e%b0%e4%bb%a3%e5%89%8d%e6%b2%bf%e6%8a%80%e6%9c%af)
@@ -31,16 +30,17 @@
 - [Python](#python)
 
 ## 技术跟进
+
 - serverless 服务上云
 - 微前端技术架构
 - 前端工程化体系
 - Node C++ addons开发
-  
+
 ## 资料
+
 - [文章收集](./文章收集.md)
 - [工具类](./工具.md)
 - [前端性能优化](https://alienzhou.github.io/fe-performance-journey/)
-
 
 ## 语言基础部分
 
@@ -120,26 +120,6 @@
 - hooks核心思想
 - vue中双向绑定
 
-## Webpack
-
-- 项目实战
-- babel原理
-- webpack整体架构
-- 未完待续
-
-## Web安全
-
-- XSS
-- 待续
-
-## 源码阅读
-
-- [Koa](https://github.com/koajs/koa)
-- [Eggjs](https://github.com/eggjs/egg)
-- [MVVM](https://github.com/DMQ/mvvm)
-- [koa-ts](https://github.com/unix/koa-ts)
-  - [typedi](https://github.com/typestack/typedi) : 依赖注入容器
-
 ## Node
 
 - 核心模块
@@ -181,6 +161,25 @@
 - 缓存方案设计及其常见缓存算法
 - 待续
 
+## Webpack
+
+- 项目实战
+- babel原理
+- webpack整体架构
+- 未完待续
+
+## Web安全
+
+- XSS/CSRF
+- 待续
+
+## 源码阅读
+
+- [Koa](https://github.com/koajs/koa)
+- [Eggjs](https://github.com/eggjs/egg)
+- [MVVM](https://github.com/DMQ/mvvm)
+- [koa-ts](https://github.com/unix/koa-ts)
+  - [typedi](https://github.com/typestack/typedi) : 依赖注入容器
 
 ## 设计模式
 
