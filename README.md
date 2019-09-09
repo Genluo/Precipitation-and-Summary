@@ -109,7 +109,7 @@
 - [React和Vue核心思想](https://github.com/Genluo/Blog/issues/30)
 - [VirtualDom原理和DIff算法](https://github.com/Genluo/Blog/issues/37)
 - [immutable对象构建算法](https://github.com/Genluo/Blog/issues/31)
-- React组件生命周期
+- [react生命周期演进过程](https://github.com/Genluo/Blog/issues/60)
 - [React最新特性学习](https://github.com/Genluo/Blog/issues/32)
 - [CSR（Client Side Rendering）网页首帧优化总结](https://github.com/Genluo/Blog/issues/33)
 - [Redux原理](https://github.com/Genluo/Blog/issues/34)
