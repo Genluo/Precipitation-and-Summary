@@ -38,6 +38,7 @@
 - 前端工程化体系
   - 开发webpack插件
   - 开发babel插件
+  - [深入理解TypeScript](https://jkchao.github.io/typescript-book-chinese/project/dynamicImportExpressions.html)
 - [Node后端框架学习](https://github.com/Genluo/Blog/issues/61)
   - koa-ts
   - NestJs
