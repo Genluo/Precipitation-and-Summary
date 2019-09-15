@@ -36,6 +36,8 @@
   - [qiankun](https://github.com/Genluo/qiankun)： 支付宝微前端解决方案
   - [icestark](https://github.com/ice-lab/icestark): 淘系微前端解决方案
 - 前端工程化体系
+  - 开发webpack插件
+  - 开发babel插件
 - [Node后端框架学习](https://github.com/Genluo/Blog/issues/61)
   - koa-ts
   - NestJs
