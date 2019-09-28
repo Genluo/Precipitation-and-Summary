@@ -192,6 +192,7 @@
 - [MVVM](https://github.com/DMQ/mvvm)
 - [koa-ts](https://github.com/unix/koa-ts)
   - [typedi](https://github.com/typestack/typedi) : 依赖注入容器
+- [icestore](https://github.com/ice-lab/icestore)
 
 ## 设计模式
 
