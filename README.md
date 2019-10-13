@@ -46,6 +46,7 @@
   - koa-ts
   - NestJs
 - Node C++ addons开发
+- [浏览器工作原理与实践](http://blog.poetries.top/browser-working-principle/guide/part1/lesson01.html#%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B)
 
 ## 资料
 
@@ -191,6 +192,7 @@
 - [MVVM](https://github.com/DMQ/mvvm)
 - [koa-ts](https://github.com/unix/koa-ts)
   - [typedi](https://github.com/typestack/typedi) : 依赖注入容器
+- [icestore](https://github.com/ice-lab/icestore)
 
 ## 设计模式
 
