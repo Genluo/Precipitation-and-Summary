@@ -32,16 +32,16 @@
 ## 技术跟进
 
 - 【完成】react hooks迁移
-- serverless 服务上云
-- 微前端技术架构
-  - [qiankun](https://github.com/Genluo/qiankun)： 支付宝微前端解决方案
-  - [icestark](https://github.com/ice-lab/icestark): 淘系微前端解决方案
 - 前端工程化体系
   - 开发webpack插件
   - 开发babel插件
   - [深入理解TypeScript](https://jkchao.github.io/typescript-book-chinese/project/dynamicImportExpressions.html)
   - [微内核架构应用研究](https://yunsong0922.github.io/2018/12/09/%E5%BE%AE%E5%86%85%E6%A0%B8%E6%9E%B6%E6%9E%84%E5%BA%94%E7%94%A8%E7%A0%94%E7%A9%B6/)
   - [透过现象看本质: 常见的前端架构风格和案例](https://juejin.im/post/5d7ffad551882545ff173083?utm_source=gold_browser_extension#heading-9)
+- serverless 服务上云
+- 微前端技术架构
+  - [qiankun](https://github.com/Genluo/qiankun)： 支付宝微前端解决方案
+  - [icestark](https://github.com/ice-lab/icestark): 淘系微前端解决方案
 - [Node后端框架学习](https://github.com/Genluo/Blog/issues/61)
   - koa-ts
   - NestJs
