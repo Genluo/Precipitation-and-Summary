@@ -31,7 +31,7 @@
 
 ## 技术跟进
 
-- react hooks迁移
+- 【完成】react hooks迁移
 - serverless 服务上云
 - 微前端技术架构
   - [qiankun](https://github.com/Genluo/qiankun)： 支付宝微前端解决方案
