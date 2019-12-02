@@ -39,6 +39,7 @@
   - [微内核架构应用研究](https://yunsong0922.github.io/2018/12/09/%E5%BE%AE%E5%86%85%E6%A0%B8%E6%9E%B6%E6%9E%84%E5%BA%94%E7%94%A8%E7%A0%94%E7%A9%B6/)
   - [透过现象看本质: 常见的前端架构风格和案例](https://juejin.im/post/5d7ffad551882545ff173083?utm_source=gold_browser_extension#heading-9)
 - serverless 服务上云
+  - [将你的服务部署到ZEIT](https://cnodejs.org/topic/5de4705539af564604bbfcb8)
 - 微前端技术架构
   - [qiankun](https://github.com/Genluo/qiankun)： 支付宝微前端解决方案
   - [icestark](https://github.com/ice-lab/icestark): 淘系微前端解决方案
