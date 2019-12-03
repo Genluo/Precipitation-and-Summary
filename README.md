@@ -32,7 +32,7 @@
 ## 技术跟进
 
 - 【完成】react hooks迁移
-- 前端工程化体系
+- 前端工程化体系(编译方向)
   - 开发webpack插件
   - 开发babel插件
   - [深入理解TypeScript](https://jkchao.github.io/typescript-book-chinese/project/dynamicImportExpressions.html)
