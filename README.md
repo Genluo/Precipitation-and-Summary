@@ -3,15 +3,12 @@
 <div align="center">
   <a href="#">
     <!-- <img src="https://camo.githubusercontent.com/f85e9f52aec085fb258e80d7dcbf0eb5ec93dd65/68747470733a2f2f63646e2e7261776769742e636f6d2f79616e677368756e2f66726f6e742d656e642d696e746572766965772d68616e64626f6f6b2f323364383963382f6173736574732f7363726f6c6c2e737667" alt="Interview Plan" width="400"/> -->
-    <img src="https://tva1.sinaimg.cn/large/006y8mN6ly1g6czt86ybbj31080ke3yv.jpg" alt="Interview Plan" width="100%"/>
+    <img src="https://gw.alicdn.com/imgextra/i2/O1CN01PB5Inc1foJyHZQ0EX_!!6000000004053-2-tps-868-467.png" alt="Interview Plan" width="100%"/>
     </a>
   <br>
-  <p>
-    <em>Credits: <a href="#">勤奋蜂</a> by <a href="#">🐝</a>
-    </em>
-  </p>
 </div>
 
+## 整体大纲
 - [技术跟进](#%e6%8a%80%e6%9c%af%e8%b7%9f%e8%bf%9b)
 - [资料](#%e8%b5%84%e6%96%99)
 - [语言基础部分](#%e8%af%ad%e8%a8%80%e5%9f%ba%e7%a1%80%e9%83%a8%e5%88%86)
