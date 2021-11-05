@@ -10,7 +10,7 @@
 
 ## 整体大纲
 - [技术跟进](#%e6%8a%80%e6%9c%af%e8%b7%9f%e8%bf%9b)
-- [资料](#%e8%b5%84%e6%96%99)
+- [相关资料](#%e8%b5%84%e6%96%99)
 - [语言基础部分](#%e8%af%ad%e8%a8%80%e5%9f%ba%e7%a1%80%e9%83%a8%e5%88%86)
 - [浏览器](#%e6%b5%8f%e8%a7%88%e5%99%a8)
 - [计算机网络](#%e8%ae%a1%e7%ae%97%e6%9c%ba%e7%bd%91%e7%bb%9c)
@@ -23,13 +23,11 @@
 - [设计模式](#%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f)
 - [数据结构和算法](#%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84%e5%92%8c%e7%ae%97%e6%b3%95)
 - [现代前沿技术](#%e7%8e%b0%e4%bb%a3%e5%89%8d%e6%b2%bf%e6%8a%80%e6%9c%af)
-- [Linux](#linux)
-- [Python](#python)
 
 ## 技术跟进
 
 - 【完成】react hooks迁移
-- 【进行中】前端工程化体系(工程方向、跨端方向)
+- 【完成】前端工程化体系(工程方向、跨端方向)
   - 开发webpack插件
   - 开发babel插件
   - jsx-compiler 小程序转化的编译器(给予babel的应用层)
@@ -41,19 +39,18 @@
 - 微前端技术架构
   - [qiankun](https://github.com/Genluo/qiankun)： 支付宝微前端解决方案
   - [icestark](https://github.com/ice-lab/icestark): 淘系微前端解决方案
-- Node C++ addons开发
-- WebAssembly技术上的融合： C++、Rust、AssemblyScript
+- Node
+  - C++ addons开发
+- WebAssembly
+  - C++、Rust、AssemblyScript npm开发
+- Serverless
+  - SSR 服务端渲染
+  - midwayJs Serverless 框架学习 & 服务上云
 - [浏览器工作原理与实践](http://blog.poetries.top/browser-working-principle/guide/part1/lesson01.html#%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B)
 
-- serverless 服务上云
-  - [将你的服务部署到ZEIT](https://cnodejs.org/topic/5de4705539af564604bbfcb8)
-
-- [Node后端框架学习](https://github.com/Genluo/Blog/issues/61)
-  - koa-ts
-  - NestJs
 
 
-## 资料
+## 相关资料
 
 - [文章收集](./文章收集.md)
 - [工具类](./工具.md)
@@ -138,7 +135,6 @@
 - vue中双向绑定
 
 ## Node
-
 - 核心模块
   - 缓存、流、模块
     - [Buffer学习](https://github.com/Genluo/Blog/issues/40)
@@ -167,16 +163,16 @@
     - [string_decoder](https://github.com/Genluo/Blog/issues/52)
     - crypto
     - zlib
-- 实现Http2.0
-- 事件循环流程
-- 核心模块的认识
-- 流的概念
-- socket编程
-- 模块化实现原理
-- NPM工具详解
-- 了解Libuv
-- 缓存方案设计及其常见缓存算法
-- 待续
+  - 实现Http2.0
+  - 事件循环流程
+  - 核心模块的认识
+  - 流的概念
+  - socket编程
+  - 模块化实现原理
+  - NPM工具详解
+  - 了解Libuv
+  - 缓存方案设计及其常见缓存算法
+  - 待续
 
 ## Webpack
 
@@ -232,7 +228,6 @@
   - [LRU算法](https://github.com/Genluo/Blog/issues/38)
 
 ## 现代前沿技术
-
 - Hybrid APP
 - Native
 - 小程序实现原理
@@ -241,13 +236,3 @@
 - webworker技术优化项目
 - webComponent技术
 - TypeScript学习
-
-## Linux
-
-待续
-
-## Python
-
-待续
-
-https://juejin.imw/post/5cc1da82f265da036023b628
